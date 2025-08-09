@@ -17,8 +17,8 @@
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/raminol12/sanayisetup/refs/heads/main/setup.sh?token=GHSAT0AAAAAADDXKSKMXUX5RUU6QQLK7DCA2EXOSQA)
 
-
-## تانل ایران
+-------------------------------------------------------------------------------------------
+## نحوه استفاده
 
 1. اجرای دستور زیر روی سرور:
 
