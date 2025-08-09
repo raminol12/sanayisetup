@@ -15,4 +15,4 @@
 1. اجرای دستور زیر روی سرور:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/raminol12/sanayisetup/refs/heads/main/setup.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/raminol12/sanayisetup/refs/heads/main/setup.sh?token=GHSAT0AAAAAADDXKSKMXUX5RUU6QQLK7DCA2EXOSQA)
