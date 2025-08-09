@@ -15,7 +15,7 @@
 1. اجرای دستور زیر روی سرور:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/raminol12/sanayisetup/refs/heads/main/setup.sh?token=GHSAT0AAAAAADDXKSKMXUX5RUU6QQLK7DCA2EXOSQA)
+bash <(curl -Ls https://raw.githubusercontent.com/raminol12/sanayisetup/refs/heads/main/setup.sh)
 ```
 
 ---
@@ -25,7 +25,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/raminol12/sanayisetup/refs/hea
 1. اجرای دستور زیر روی سرور برای تنظیم تونل مخصوص سرور ایران:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/raminol12/sanayisetup/refs/heads/main/irtun.sh?token=GHSAT0AAAAAADDXKSKM2YO2DQSNB2UMEK3O2EXO3EQ)
+bash <(curl -Ls https://raw.githubusercontent.com/raminol12/sanayisetup/refs/heads/main/irtun.sh)
 ```
 
 ---
